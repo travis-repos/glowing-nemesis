@@ -1,1 +1,1 @@
-task(:default) { sh 'fortune' }
+task(:default) { puts "Hi there!" }
